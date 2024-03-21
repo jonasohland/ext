@@ -1,0 +1,4 @@
+github.com/jonasohland/slog-ext v0.0.0-20240321144838-5f257e6bddbd h1:VMdXhFVUYZQRofldZICu2pHkORWoVVyz3qjdwGqY+NY=
+github.com/jonasohland/slog-ext v0.0.0-20240321144838-5f257e6bddbd/go.mod h1:gyprTkfBLGBwWowS6/lNStDXUoIEfAnb1Mbmrk9ia8I=
+github.com/phsym/console-slog v0.3.1 h1:Fuzcrjr40xTc004S9Kni8XfNsk+qrptQmyR+wZw9/7A=
+github.com/phsym/console-slog v0.3.1/go.mod h1:oJskjp/X6e6c0mGpfP8ELkfKUsrkDifYRAqJQgmdDS0=
